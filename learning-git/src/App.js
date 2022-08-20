@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <Header/>
+      <Content/>
       <Testing/>
       <h1>hello</h1>
     </div>
